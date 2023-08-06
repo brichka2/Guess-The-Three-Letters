@@ -1,0 +1,15 @@
+C:\Users\PaulsB\Documents\GuessTheLetter\bin\Debug\net6.0\GuessTheLetter.exe
+C:\Users\PaulsB\Documents\GuessTheLetter\bin\Debug\net6.0\GuessTheLetter.deps.json
+C:\Users\PaulsB\Documents\GuessTheLetter\bin\Debug\net6.0\GuessTheLetter.runtimeconfig.json
+C:\Users\PaulsB\Documents\GuessTheLetter\bin\Debug\net6.0\GuessTheLetter.dll
+C:\Users\PaulsB\Documents\GuessTheLetter\bin\Debug\net6.0\GuessTheLetter.pdb
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.csproj.AssemblyReference.cache
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.AssemblyInfoInputs.cache
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.AssemblyInfo.cs
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.csproj.CoreCompileInputs.cache
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.dll
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\refint\GuessTheLetter.dll
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.pdb
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\GuessTheLetter.genruntimeconfig.cache
+C:\Users\PaulsB\Documents\GuessTheLetter\obj\Debug\net6.0\ref\GuessTheLetter.dll
